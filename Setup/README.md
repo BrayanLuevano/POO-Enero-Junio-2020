@@ -1,8 +1,13 @@
 
 # Ejercico de Markdown
 
-
 ## Instalacion de dotnet core 2.2
+Lo primero que tenemos que hacer
+es bajar el archivo de instalacion del siguiente
+[lugar](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+Es importante bajar el SDK, porque **vamos a Programar**
+
+La pagina se ve asi
 
 
 ## Instalacion y configuracion de Visual Studio Code para C#
