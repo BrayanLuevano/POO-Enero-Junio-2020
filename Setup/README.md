@@ -7,8 +7,8 @@ es bajar el archivo de instalacion del siguiente
 [lugar](https://dotnet.microsoft.com/download/dotnet-core/3.0).
 Es importante bajar el SDK, porque **vamos a Programar**
 
-La pagina se ve asi
-
+La pagina se ve asi:
+![sadsa](./img/Net Core 3.0.png)
 
 ## Instalacion y configuracion de Visual Studio Code para C#
 
