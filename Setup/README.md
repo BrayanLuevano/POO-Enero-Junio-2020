@@ -70,5 +70,6 @@ Aqui se abrira una nueva ventana y se descargara automaticamente el Git:
 ![Descarga de Git en automatico](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Aqui%20se%20descargo%20el%20Git.PNG)
 
 Aqui aparece el instalador de Git y procedemos a instalarlo, despues aparecera que si quiere que el programa haga cambios en el equipo y le damos a "Si"
+
 ![Instalador Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20Git.PNG)
 
