@@ -73,3 +73,5 @@ Aqui aparece el instalador de Git y procedemos a instalarlo, despues aparecera q
 
 ![Instalador Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20Git.PNG)
 
+
+
