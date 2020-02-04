@@ -1,5 +1,5 @@
 
-# Ejercico de Markdown
+# Ejercicio de Markdown
 
 ## Instalacion de dotnet core 2.2
 Lo primero que tenemos que hacer
