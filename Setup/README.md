@@ -64,5 +64,8 @@ La pagina de Git se ve de esta manera:
 ![Pagina de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20Git.PNG)
 
 Descargar Git dando click en el siguiente boton:
-![Descarga de Git]()
+![Descarga de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Descargar%20Git%20en%20ese%20boton.PNG)
+
+Aqui se abrira una nueva ventana y se descargara automaticamente el Git:
+![Descarga de Git en automatico]()
 
