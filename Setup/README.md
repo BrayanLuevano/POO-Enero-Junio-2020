@@ -125,8 +125,14 @@ La pagina se ve de esta manera:
 ![Imagen de la pagina de GitHub](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20GitHub.PNG)
 
 2-. Despues en la pagina le damos a "Download for Windows" y se empezara la descarga automaticamente:
-![Imagen de la descarga de GitHub Desktop]()
 
+![Imagen de la descarga de GitHub Desktop](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Descarga%20automatica%20de%20GitHub%20Desktop.PNG)
 
+3-. Damos click en el instalador de GitHub Desktop para proceder con la instalacion:
 
+![Imagen del instalador de GitHub Desktop](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20GitHub%20Desktop.PNG)
+
+4-. Despues se inicia el instalador y se instala muy rapido sin necesidad de dar muchos siguientes:
+
+![Imagen de instalacion de GitHub Desktop]()
 
