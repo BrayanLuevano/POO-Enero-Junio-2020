@@ -23,6 +23,7 @@ Una vez instalado el dotnet-core 3.1 le damos en "Close"
 1-. Primero debemos de descargar desde la pagina oficial el [Visual Studio Code](https://code.visualstudio.com/)
 
 Y la pagina se ve de la siguiente manera:
-![Imagen de la pagina de Visual Studio Code]()
+![Imagen de la pagina de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20Visual%20Studio%20Code.PNG)
+
 
 ## Instalacion de git. conectado a tu cuenta de GitHub y VSC
