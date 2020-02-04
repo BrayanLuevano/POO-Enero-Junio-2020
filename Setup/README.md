@@ -136,3 +136,11 @@ La pagina se ve de esta manera:
 
 ![Imagen de instalacion de GitHub Desktop](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20GitHub%20Desktop.PNG)
 
+5-. Se abre automaticamente el GitHub Desktop, pedira que se inicie sesion con una cuenta de GitHub, se debe de ingresar correo y contraseña.
+
+Despues a clonar repositorio y se creara una carpeta local en la PC donde esta instalado el GitHub Desktop.
+
+Y estara listo el programa GitHub Desktop para usarlo con Visual Studio Code, con esto terminamos la instalacion:
+
+![Imagen de GitHub Desktop iniciado](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/GItHub%20Desktop%20Instalado.PNG)
+
