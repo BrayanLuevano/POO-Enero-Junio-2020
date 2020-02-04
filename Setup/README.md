@@ -4,7 +4,7 @@
 ## Instalacion de dotnet core 3.0
 Lo primero que tenemos que hacer
 es Descargar el paquete de instalacion de dotnet-core 3.0 del siguiente
-[lugar](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+[lugar](https://dotnet.microsoft.com/download).
 Es importante descargar el SDK, porque **Vamos a Programar**
 
 La pagina se ve asi:
