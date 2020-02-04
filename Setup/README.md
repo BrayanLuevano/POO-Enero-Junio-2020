@@ -73,5 +73,48 @@ Aqui aparece el instalador de Git y procedemos a instalarlo, despues aparecera q
 
 ![Instalador Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20Git.PNG)
 
+Se abre el Instalador para instalar Git y despues de eso le damos en "Next":
+
+![Imagen 1 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%201.PNG)
+
+Le damos a siguiente:
+
+![Imagen 2 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%202.PNG)
+
+![Imagen 3 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%203.PNG)
+
+![Imagen 4 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%204.PNG)
+
+Aqui seleccionamos "Use Visual Studio Code as Git's default editor" :
+
+![Imagen 5 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%205.PNG)
+
+Seleccionamos y ponemos "Next" :
+
+![Imagen 6 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%206.PNG)
+
+![Imagen 7 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%207.PNG)
+
+![Imagen 8 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%208.PNG)
+
+![Imagen 9 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%209.PNG)
+
+Esas casillas deben de estar marcadas y despues le damos a "Install" :
+
+![Imagen 10 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2010.PNG)
+
+Se empezara el proceso de instalacion del programa Git: 
+
+![Imagen 11 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2011.PNG)
+
+Aqui le ponemos "Next" y seria como el boton de Finalizar: 
+
+![Imagen 12 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2012.PNG)
+
+Despues buscamos el Programa Git GUI y lo abrimos y aparece de esta forma:
+Y con esto terminamos con la instalacion de Git.
+
+![Imagen 13 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2013.PNG)
+
 
 
