@@ -134,5 +134,5 @@ La pagina se ve de esta manera:
 
 4-. Despues se inicia el instalador y se instala muy rapido sin necesidad de dar muchos siguientes:
 
-![Imagen de instalacion de GitHub Desktop]()
+![Imagen de instalacion de GitHub Desktop](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20GitHub%20Desktop.PNG)
 
