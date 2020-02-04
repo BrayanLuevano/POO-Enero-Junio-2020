@@ -25,10 +25,10 @@ Y la pagina se ve de la siguiente manera:
 ![Imagen de la pagina de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20Visual%20Studio%20Code.PNG)
 
 2-. Le damos en Descargar y nos enviara a una pagina donde empezara a descargar el Visual Studio Code automaticamente y aparecera en la parte inferior izquierda en caso de utilizar Chrome.
-![Imagen de la descarga directa de Visual Studio Code]()
+![Imagen de la descarga directa de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Descarga%20de%20Visual%20Studio%20Code.PNG)
 
 3-. Despues buscamos el instalador de Visual Studio Code y lo abrimos para proceder con las instalacion:
-![Imagen del instalador]()
+![Imagen del instalador](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20Visual%20Studio%20Code.PNG)
 
 
 ## Instalacion de git. conectado a tu cuenta de GitHub y VSC
