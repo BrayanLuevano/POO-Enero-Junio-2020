@@ -122,7 +122,7 @@ Despues buscamos el Programa Git GUI, lo abrimos y aparece de esta forma:
 1-. Primero debemos de descargar [GitHub](https://desktop.github.com/)
 
 La pagina se ve de esta manera: 
-![Imagen de la pagina de GitHub]()
+![Imagen de la pagina de GitHub](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20GitHub.PNG)
 
 
 
