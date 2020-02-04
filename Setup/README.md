@@ -117,6 +117,13 @@ Despues buscamos el Programa Git GUI, lo abrimos y aparece de esta forma:
 
 ![Imagen 13 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2013.PNG)
 
+## Instalacion de GitHub
+
+1-. Primero debemos de descargar [GitHub](https://desktop.github.com/)
+
+La pagina se ve de esta manera: 
+![Imagen de la pagina de GitHub]()
+
 
 
 
