@@ -40,10 +40,13 @@ Y la pagina se ve de la siguiente manera:
 Aqui marcamos esas casillas para agregar el PATH y agregar la opcion "Abrir con Code" en el menu contextual de archivo de explorador de Windows y despues le damos a siguiente:
 ![Imagen 4 de instalacion de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Visual%20Studio%20Code%20Paso%204.PNG)
 
+
 Despues le Damos a instalar:
+
 ![Imagen 5 de instalacion de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Visual%20Studio%20Code%20Paso%205.PNG)
 
 Comenzara con la instalacion del Visual Studio Code:
+
 ![Imagen 6 de instalacion de Visual Studio Code](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Visual%20Studio%20Code%20Paso%206.PNG)
 
 Despues de ya estara completa la instalacion del Visual Studio Code y le damos a finalizar:
