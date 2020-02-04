@@ -14,7 +14,7 @@ La pagina se ve asi:
 
 Despues le damos a "Install" pedira confirmacion si queremos instalar y damos en "Si"
 
-Una vez instalado el dotnet-core 3.1 le damos en "Close"
+3-. Una vez instalado el dotnet-core 3.1 le damos en "Close y ya estara instalado"
 
 ![Finalizacion de donet-core 3.1](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Finalizacion%20de%20instalacion%20de%20net%20core%203.1.PNG)
 
@@ -63,17 +63,17 @@ Aqui ya se abre el Visual Studio Code y con eso terminamos la instalacion:
 La pagina de Git se ve de esta manera:
 ![Pagina de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20Git.PNG)
 
-Descargar Git dando click en el siguiente boton:
+2-. Descargar Git dando click en el siguiente boton:
 ![Descarga de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Descargar%20Git%20en%20ese%20boton.PNG)
 
 Aqui se abrira una nueva ventana y se descargara automaticamente el Git:
 ![Descarga de Git en automatico](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Aqui%20se%20descargo%20el%20Git.PNG)
 
-Aqui aparece el instalador de Git y procedemos a instalarlo, despues aparecera que si quiere que el programa haga cambios en el equipo y le damos a "Si"
+3-. Aqui aparece el instalador de Git y procedemos a instalarlo, despues aparecera que si quiere que el programa haga cambios en el equipo y le damos a "Si"
 
 ![Instalador Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalador%20de%20Git.PNG)
 
-Se abre el Instalador para instalar Git y despues de eso le damos en "Next":
+4-. Se abre el Instalador para instalar Git y despues de eso le damos en "Next":
 
 ![Imagen 1 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%201.PNG)
 
@@ -113,9 +113,10 @@ Aqui le ponemos "Next" y seria como el boton de Finalizar:
 
 Despues buscamos el Programa Git GUI, lo abrimos y aparece de esta forma:
 
-Y con esto terminamos con la instalacion de Git.
+5-. Y con esto terminamos con la instalacion de Git.
 
 ![Imagen 13 de Instalacion de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Instalacion%20de%20Git%20Paso%2013.PNG)
+
 
 
 
