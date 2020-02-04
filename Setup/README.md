@@ -57,3 +57,9 @@ Aqui ya se abre el Visual Studio Code y con eso terminamos la instalacion:
 
 
 ## Instalacion de git. conectado a tu cuenta de GitHub y VSC
+
+1-. Primero debemos de descargar desde la pagina oficial: [Git](https://git-scm.com/)
+
+La pagina de Git se ve de esta manera:
+![Pagina de Git]()
+
