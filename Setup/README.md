@@ -124,6 +124,9 @@ Despues buscamos el Programa Git GUI, lo abrimos y aparece de esta forma:
 La pagina se ve de esta manera: 
 ![Imagen de la pagina de GitHub](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Pagina%20de%20GitHub.PNG)
 
+2-. Despues en la pagina le damos a "Download for Windows" y se empezara la descarga automaticamente:
+![Imagen de la descarga de GitHub Desktop]()
+
 
 
 
