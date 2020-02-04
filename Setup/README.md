@@ -1,7 +1,7 @@
 
 # Ejercicio de Markdown
 
-## Instalacion de dotnet core 3.0
+## Instalacion de dotnet core 3.1
 Lo primero que tenemos que hacer
 es Descargar el paquete de instalacion de dotnet-core 3.1 del siguiente
 [lugar](https://dotnet.microsoft.com/download).
