@@ -67,5 +67,5 @@ Descargar Git dando click en el siguiente boton:
 ![Descarga de Git](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Descargar%20Git%20en%20ese%20boton.PNG)
 
 Aqui se abrira una nueva ventana y se descargara automaticamente el Git:
-![Descarga de Git en automatico]()
+![Descarga de Git en automatico](https://github.com/BrayanLuevano/POO-Enero-Junio-2020/blob/master/Setup/img/Aqui%20se%20descargo%20el%20Git.PNG)
 
