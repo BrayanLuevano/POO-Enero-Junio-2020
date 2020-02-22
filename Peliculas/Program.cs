@@ -59,15 +59,14 @@ namespace Peliculas
             Pelicula1.SetAño(2018);
             Pelicula1.SetPais("Estados Unidos");
             Pelicula1.SetDirector("Pierre Morel");
+            Console.WriteLine("{0}, ({1}), {2}, {3}", Pelicula1.GetTitulo(), Pelicula1.GetAño(), Pelicula1.GetPais(), Pelicula1.GetDirector());
 
             Peliculas Pelicula2 = new Peliculas();
             Pelicula2.SetTitulo("No manches frida 2");
             Pelicula2.SetAño(2019);
             Pelicula2.SetPais("Mexico");
             Pelicula2.SetDirector("Nacho G. Velilla");
-
-            Pelicula1.Imprime();
-            Pelicula2.Imprime();
+            Console.WriteLine("{0}, ({1}), {2}, {3}", Pelicula2.GetTitulo(), Pelicula2.GetAño(), Pelicula2.GetPais(), Pelicula2.GetDirector());
         }
     }
 }
