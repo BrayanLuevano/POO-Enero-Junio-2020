@@ -2,10 +2,6 @@
 using System.Collections.Generic;
 namespace ListaDePeliculas
 {
-    class ListaDePeliculas
-    {
-        
-    }
     class Program
     {
         static void Main(string[] args)
