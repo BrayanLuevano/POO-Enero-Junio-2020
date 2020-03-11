@@ -29,3 +29,5 @@ AULA Y HORARIO: 91L6 Y 9206 DE 12:00 - 13:00 P.M
 [Programa Basico Peliculas](./Peliculas)
 
 [Lista de Peliculas](./ListaDePeliculas)
+
+[Actores](./Peliculas)
