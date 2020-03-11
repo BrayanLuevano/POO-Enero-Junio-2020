@@ -33,3 +33,5 @@ AULA Y HORARIO: 91L6 Y 9206 DE 12:00 - 13:00 P.M
 [Actores](./Peliculas)
 
 [UML](./UML)
+
+[Paso de Parametros](./PasoDeParametros)
