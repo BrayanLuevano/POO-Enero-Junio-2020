@@ -3,12 +3,24 @@ using System.Collections.Generic;
 
 namespace Peliculas
 {
+    class Actor
+    {
+        public String Nombre;
+        public Int16 Año;
+        public Actor(String Nombre, Int16 Año)
+        {
+            this.Nombre = Nombre;
+            this.Año = Año;
+        }
+    }
     class Peliculas
     {
         private string Titulo;
         private Int16 Año;
         private string  Pais;
         private string Director;
+
+        private  List<Actor> actores = new List<Actor>();
 
         public void SetTitulo(string Titulo)
         {
@@ -49,6 +61,20 @@ namespace Peliculas
         {
             Console.WriteLine("{0}, {1}, {2}, {3}", this.Titulo, this.Año, this.Director, this.Pais);
         }
+
+        public void AgregarActor(Actor actor) 
+        {
+            actores.Add(actor);
+        }
+
+        public void ImprimeActores()
+        {
+            foreach(Actor act in actores)
+            {
+                Console.WriteLine("{0}, {1}", act.Nombre, act.Año);
+            }
+        }
+
     }
     class Program
     {
@@ -67,6 +93,14 @@ namespace Peliculas
             Pelicula2.SetPais("Mexico");
             Pelicula2.SetDirector("Nacho G. Velilla");
             Console.WriteLine("{0}, ({1}), {2}, {3}", Pelicula2.GetTitulo(), Pelicula2.GetAño(), Pelicula2.GetPais(), Pelicula2.GetDirector());
+
+            Pelicula1.AgregarActor(new Actor("Jennifer Garner", 2018));
+            Pelicula2.AgregarActor(new Actor("Omar Chaparro", 2019));
+
+            Pelicula1.Imprime();
+            Pelicula1.ImprimeActores();
+            Pelicula2.Imprime();
+            Pelicula2.ImprimeActores();
         }
     }
 }
