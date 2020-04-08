@@ -40,6 +40,6 @@ AULA Y HORARIO: 91L6 Y 9206 DE 12:00 - 13:00 P.M
 
 [Duracion](./Duracion)
 
-[Alumnos]
+[Alumnos](./Alumnos)
 
 [Musicos](./Musicos)
