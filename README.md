@@ -54,4 +54,6 @@ AULA Y HORARIO: 91L6 Y 9206 DE 12:00 - 13:00 P.M
 
 [Ilustrador de Windows - Figura](./WindowsFigura-Ilustrador)
 
-[Proyecto Final](./ProyectoFinal-VideoJuegoViboritaClasico)
+[Proyecto Final Videojuego](./ProyectoFinal-VideoJuegoViboritaClasico)
+
+[Proyecto Final Producto](./ProyectoFinalProducto)
